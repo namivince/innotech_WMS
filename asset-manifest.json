@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/innotech_WMS/static/css/main.40182202.css",
+    "main.js": "/innotech_WMS/static/js/main.dac050d7.js",
+    "static/js/453.ad5dbf4e.chunk.js": "/innotech_WMS/static/js/453.ad5dbf4e.chunk.js",
+    "index.html": "/innotech_WMS/index.html",
+    "main.40182202.css.map": "/innotech_WMS/static/css/main.40182202.css.map",
+    "main.dac050d7.js.map": "/innotech_WMS/static/js/main.dac050d7.js.map",
+    "453.ad5dbf4e.chunk.js.map": "/innotech_WMS/static/js/453.ad5dbf4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40182202.css",
+    "static/js/main.dac050d7.js"
+  ]
+}
